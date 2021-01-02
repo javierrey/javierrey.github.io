@@ -1,12 +1,10 @@
 .*/
-ignore/
 bin/
 build/
 log/
 logs/
 tmp/
 temp/
-_ignore_*
 *.tmp
 *.bak
 *.log
